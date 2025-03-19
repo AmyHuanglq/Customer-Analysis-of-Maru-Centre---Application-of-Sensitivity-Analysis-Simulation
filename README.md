@@ -1,0 +1,2 @@
+# Customer-Analysis-of-Maru-Centre---Application-of-Sensitivity-Analysis-Simulation
+It applied linear and logistic regression models to predict customer purchasing behavior and enhance campaign performance. Through a Maru Batting Center project, I utilized Sensitivity Analysis and Monte Carlo Simulation to determine the most profitable customer segments and optimal marketing strategies, maximizing Customer Lifetime Value (CLV).
